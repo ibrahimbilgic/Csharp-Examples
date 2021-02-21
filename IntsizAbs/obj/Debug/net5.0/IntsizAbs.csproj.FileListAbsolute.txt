@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/C#Projects/IntsizAbs/obj/Debug/net5.0/IntsizAbs.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/C#Projects/IntsizAbs/obj/Debug/net5.0/IntsizAbs.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/C#Projects/IntsizAbs/obj/Debug/net5.0/IntsizAbs.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/C#Projects/IntsizAbs/obj/Debug/net5.0/IntsizAbs.AssemblyInfo.cs
+/home/blgc/Masaüstü/C#Projects/IntsizAbs/obj/Debug/net5.0/IntsizAbs.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/C#Projects/IntsizAbs/bin/Debug/net5.0/IntsizAbs
+/home/blgc/Masaüstü/C#Projects/IntsizAbs/bin/Debug/net5.0/IntsizAbs.deps.json
+/home/blgc/Masaüstü/C#Projects/IntsizAbs/bin/Debug/net5.0/IntsizAbs.runtimeconfig.json
+/home/blgc/Masaüstü/C#Projects/IntsizAbs/bin/Debug/net5.0/IntsizAbs.runtimeconfig.dev.json
+/home/blgc/Masaüstü/C#Projects/IntsizAbs/bin/Debug/net5.0/IntsizAbs.dll
+/home/blgc/Masaüstü/C#Projects/IntsizAbs/bin/Debug/net5.0/ref/IntsizAbs.dll
+/home/blgc/Masaüstü/C#Projects/IntsizAbs/bin/Debug/net5.0/IntsizAbs.pdb
+/home/blgc/Masaüstü/C#Projects/IntsizAbs/obj/Debug/net5.0/IntsizAbs.dll
+/home/blgc/Masaüstü/C#Projects/IntsizAbs/obj/Debug/net5.0/ref/IntsizAbs.dll
+/home/blgc/Masaüstü/C#Projects/IntsizAbs/obj/Debug/net5.0/IntsizAbs.pdb
+/home/blgc/Masaüstü/C#Projects/IntsizAbs/obj/Debug/net5.0/IntsizAbs.genruntimeconfig.cache

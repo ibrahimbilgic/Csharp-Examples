@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/C#Projects/Donusum/bin/Debug/net5.0/Donusum
+/home/blgc/Masaüstü/C#Projects/Donusum/bin/Debug/net5.0/Donusum.deps.json
+/home/blgc/Masaüstü/C#Projects/Donusum/bin/Debug/net5.0/Donusum.runtimeconfig.json
+/home/blgc/Masaüstü/C#Projects/Donusum/bin/Debug/net5.0/Donusum.runtimeconfig.dev.json
+/home/blgc/Masaüstü/C#Projects/Donusum/bin/Debug/net5.0/Donusum.dll
+/home/blgc/Masaüstü/C#Projects/Donusum/bin/Debug/net5.0/ref/Donusum.dll
+/home/blgc/Masaüstü/C#Projects/Donusum/bin/Debug/net5.0/Donusum.pdb
+/home/blgc/Masaüstü/C#Projects/Donusum/obj/Debug/net5.0/Donusum.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/C#Projects/Donusum/obj/Debug/net5.0/Donusum.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/C#Projects/Donusum/obj/Debug/net5.0/Donusum.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/C#Projects/Donusum/obj/Debug/net5.0/Donusum.AssemblyInfo.cs
+/home/blgc/Masaüstü/C#Projects/Donusum/obj/Debug/net5.0/Donusum.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/C#Projects/Donusum/obj/Debug/net5.0/Donusum.dll
+/home/blgc/Masaüstü/C#Projects/Donusum/obj/Debug/net5.0/ref/Donusum.dll
+/home/blgc/Masaüstü/C#Projects/Donusum/obj/Debug/net5.0/Donusum.pdb
+/home/blgc/Masaüstü/C#Projects/Donusum/obj/Debug/net5.0/Donusum.genruntimeconfig.cache

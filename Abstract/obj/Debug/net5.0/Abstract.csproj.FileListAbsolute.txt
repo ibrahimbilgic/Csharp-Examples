@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/C#Projects/Abstract/obj/Debug/net5.0/Abstract.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/C#Projects/Abstract/obj/Debug/net5.0/Abstract.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/C#Projects/Abstract/obj/Debug/net5.0/Abstract.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/C#Projects/Abstract/obj/Debug/net5.0/Abstract.AssemblyInfo.cs
+/home/blgc/Masaüstü/C#Projects/Abstract/obj/Debug/net5.0/Abstract.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/C#Projects/Abstract/bin/Debug/net5.0/Abstract
+/home/blgc/Masaüstü/C#Projects/Abstract/bin/Debug/net5.0/Abstract.deps.json
+/home/blgc/Masaüstü/C#Projects/Abstract/bin/Debug/net5.0/Abstract.runtimeconfig.json
+/home/blgc/Masaüstü/C#Projects/Abstract/bin/Debug/net5.0/Abstract.runtimeconfig.dev.json
+/home/blgc/Masaüstü/C#Projects/Abstract/bin/Debug/net5.0/Abstract.dll
+/home/blgc/Masaüstü/C#Projects/Abstract/bin/Debug/net5.0/ref/Abstract.dll
+/home/blgc/Masaüstü/C#Projects/Abstract/bin/Debug/net5.0/Abstract.pdb
+/home/blgc/Masaüstü/C#Projects/Abstract/obj/Debug/net5.0/Abstract.dll
+/home/blgc/Masaüstü/C#Projects/Abstract/obj/Debug/net5.0/ref/Abstract.dll
+/home/blgc/Masaüstü/C#Projects/Abstract/obj/Debug/net5.0/Abstract.pdb
+/home/blgc/Masaüstü/C#Projects/Abstract/obj/Debug/net5.0/Abstract.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/C#Projects/EightPuzzle/obj/Debug/net5.0/EightPuzzle.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/C#Projects/EightPuzzle/obj/Debug/net5.0/EightPuzzle.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/C#Projects/EightPuzzle/obj/Debug/net5.0/EightPuzzle.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/C#Projects/EightPuzzle/obj/Debug/net5.0/EightPuzzle.AssemblyInfo.cs
+/home/blgc/Masaüstü/C#Projects/EightPuzzle/obj/Debug/net5.0/EightPuzzle.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/C#Projects/EightPuzzle/bin/Debug/net5.0/EightPuzzle
+/home/blgc/Masaüstü/C#Projects/EightPuzzle/bin/Debug/net5.0/EightPuzzle.deps.json
+/home/blgc/Masaüstü/C#Projects/EightPuzzle/bin/Debug/net5.0/EightPuzzle.runtimeconfig.json
+/home/blgc/Masaüstü/C#Projects/EightPuzzle/bin/Debug/net5.0/EightPuzzle.runtimeconfig.dev.json
+/home/blgc/Masaüstü/C#Projects/EightPuzzle/bin/Debug/net5.0/EightPuzzle.dll
+/home/blgc/Masaüstü/C#Projects/EightPuzzle/bin/Debug/net5.0/ref/EightPuzzle.dll
+/home/blgc/Masaüstü/C#Projects/EightPuzzle/bin/Debug/net5.0/EightPuzzle.pdb
+/home/blgc/Masaüstü/C#Projects/EightPuzzle/obj/Debug/net5.0/EightPuzzle.dll
+/home/blgc/Masaüstü/C#Projects/EightPuzzle/obj/Debug/net5.0/ref/EightPuzzle.dll
+/home/blgc/Masaüstü/C#Projects/EightPuzzle/obj/Debug/net5.0/EightPuzzle.pdb
+/home/blgc/Masaüstü/C#Projects/EightPuzzle/obj/Debug/net5.0/EightPuzzle.genruntimeconfig.cache

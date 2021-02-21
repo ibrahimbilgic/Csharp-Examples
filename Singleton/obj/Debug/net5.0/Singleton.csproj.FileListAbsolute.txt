@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/C#Projects/Singleton/obj/Debug/net5.0/Singleton.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/C#Projects/Singleton/obj/Debug/net5.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/C#Projects/Singleton/obj/Debug/net5.0/Singleton.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/C#Projects/Singleton/obj/Debug/net5.0/Singleton.AssemblyInfo.cs
+/home/blgc/Masaüstü/C#Projects/Singleton/obj/Debug/net5.0/Singleton.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/C#Projects/Singleton/bin/Debug/net5.0/Singleton
+/home/blgc/Masaüstü/C#Projects/Singleton/bin/Debug/net5.0/Singleton.deps.json
+/home/blgc/Masaüstü/C#Projects/Singleton/bin/Debug/net5.0/Singleton.runtimeconfig.json
+/home/blgc/Masaüstü/C#Projects/Singleton/bin/Debug/net5.0/Singleton.runtimeconfig.dev.json
+/home/blgc/Masaüstü/C#Projects/Singleton/bin/Debug/net5.0/Singleton.dll
+/home/blgc/Masaüstü/C#Projects/Singleton/bin/Debug/net5.0/ref/Singleton.dll
+/home/blgc/Masaüstü/C#Projects/Singleton/bin/Debug/net5.0/Singleton.pdb
+/home/blgc/Masaüstü/C#Projects/Singleton/obj/Debug/net5.0/Singleton.dll
+/home/blgc/Masaüstü/C#Projects/Singleton/obj/Debug/net5.0/ref/Singleton.dll
+/home/blgc/Masaüstü/C#Projects/Singleton/obj/Debug/net5.0/Singleton.pdb
+/home/blgc/Masaüstü/C#Projects/Singleton/obj/Debug/net5.0/Singleton.genruntimeconfig.cache

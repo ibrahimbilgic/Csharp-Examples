@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/C#Projects/bin/Debug/net5.0/C#Projects
+/home/blgc/Masaüstü/C#Projects/bin/Debug/net5.0/C#Projects.deps.json
+/home/blgc/Masaüstü/C#Projects/bin/Debug/net5.0/C#Projects.runtimeconfig.json
+/home/blgc/Masaüstü/C#Projects/bin/Debug/net5.0/C#Projects.runtimeconfig.dev.json
+/home/blgc/Masaüstü/C#Projects/bin/Debug/net5.0/C#Projects.dll
+/home/blgc/Masaüstü/C#Projects/bin/Debug/net5.0/ref/C#Projects.dll
+/home/blgc/Masaüstü/C#Projects/bin/Debug/net5.0/C#Projects.pdb
+/home/blgc/Masaüstü/C#Projects/obj/Debug/net5.0/C#Projects.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/C#Projects/obj/Debug/net5.0/C#Projects.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/C#Projects/obj/Debug/net5.0/C#Projects.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/C#Projects/obj/Debug/net5.0/C#Projects.AssemblyInfo.cs
+/home/blgc/Masaüstü/C#Projects/obj/Debug/net5.0/C#Projects.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/C#Projects/obj/Debug/net5.0/C#Projects.dll
+/home/blgc/Masaüstü/C#Projects/obj/Debug/net5.0/ref/C#Projects.dll
+/home/blgc/Masaüstü/C#Projects/obj/Debug/net5.0/C#Projects.pdb
+/home/blgc/Masaüstü/C#Projects/obj/Debug/net5.0/C#Projects.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IntsizAbs/1.0.0": {
+        "runtime": {
+          "IntsizAbs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntsizAbs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

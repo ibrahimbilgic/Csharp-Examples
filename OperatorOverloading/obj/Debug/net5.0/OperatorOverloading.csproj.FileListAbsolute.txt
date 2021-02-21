@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/C#Projects/OperatorOverloading/bin/Debug/net5.0/OperatorOverloading
+/home/blgc/Masaüstü/C#Projects/OperatorOverloading/bin/Debug/net5.0/OperatorOverloading.deps.json
+/home/blgc/Masaüstü/C#Projects/OperatorOverloading/bin/Debug/net5.0/OperatorOverloading.runtimeconfig.json
+/home/blgc/Masaüstü/C#Projects/OperatorOverloading/bin/Debug/net5.0/OperatorOverloading.runtimeconfig.dev.json
+/home/blgc/Masaüstü/C#Projects/OperatorOverloading/bin/Debug/net5.0/OperatorOverloading.dll
+/home/blgc/Masaüstü/C#Projects/OperatorOverloading/bin/Debug/net5.0/ref/OperatorOverloading.dll
+/home/blgc/Masaüstü/C#Projects/OperatorOverloading/bin/Debug/net5.0/OperatorOverloading.pdb
+/home/blgc/Masaüstü/C#Projects/OperatorOverloading/obj/Debug/net5.0/OperatorOverloading.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/C#Projects/OperatorOverloading/obj/Debug/net5.0/OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/C#Projects/OperatorOverloading/obj/Debug/net5.0/OperatorOverloading.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/C#Projects/OperatorOverloading/obj/Debug/net5.0/OperatorOverloading.AssemblyInfo.cs
+/home/blgc/Masaüstü/C#Projects/OperatorOverloading/obj/Debug/net5.0/OperatorOverloading.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/C#Projects/OperatorOverloading/obj/Debug/net5.0/OperatorOverloading.dll
+/home/blgc/Masaüstü/C#Projects/OperatorOverloading/obj/Debug/net5.0/ref/OperatorOverloading.dll
+/home/blgc/Masaüstü/C#Projects/OperatorOverloading/obj/Debug/net5.0/OperatorOverloading.pdb
+/home/blgc/Masaüstü/C#Projects/OperatorOverloading/obj/Debug/net5.0/OperatorOverloading.genruntimeconfig.cache

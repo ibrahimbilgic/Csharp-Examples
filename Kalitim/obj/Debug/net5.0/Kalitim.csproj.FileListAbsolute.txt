@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/C#Projects/Kalitim/bin/Debug/net5.0/Kalitim
+/home/blgc/Masaüstü/C#Projects/Kalitim/bin/Debug/net5.0/Kalitim.deps.json
+/home/blgc/Masaüstü/C#Projects/Kalitim/bin/Debug/net5.0/Kalitim.runtimeconfig.json
+/home/blgc/Masaüstü/C#Projects/Kalitim/bin/Debug/net5.0/Kalitim.runtimeconfig.dev.json
+/home/blgc/Masaüstü/C#Projects/Kalitim/bin/Debug/net5.0/Kalitim.dll
+/home/blgc/Masaüstü/C#Projects/Kalitim/bin/Debug/net5.0/ref/Kalitim.dll
+/home/blgc/Masaüstü/C#Projects/Kalitim/bin/Debug/net5.0/Kalitim.pdb
+/home/blgc/Masaüstü/C#Projects/Kalitim/obj/Debug/net5.0/Kalitim.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/C#Projects/Kalitim/obj/Debug/net5.0/Kalitim.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/C#Projects/Kalitim/obj/Debug/net5.0/Kalitim.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/C#Projects/Kalitim/obj/Debug/net5.0/Kalitim.AssemblyInfo.cs
+/home/blgc/Masaüstü/C#Projects/Kalitim/obj/Debug/net5.0/Kalitim.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/C#Projects/Kalitim/obj/Debug/net5.0/Kalitim.dll
+/home/blgc/Masaüstü/C#Projects/Kalitim/obj/Debug/net5.0/ref/Kalitim.dll
+/home/blgc/Masaüstü/C#Projects/Kalitim/obj/Debug/net5.0/Kalitim.pdb
+/home/blgc/Masaüstü/C#Projects/Kalitim/obj/Debug/net5.0/Kalitim.genruntimeconfig.cache

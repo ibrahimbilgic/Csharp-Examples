@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/C#Projects/SealedMethod/bin/Debug/net5.0/SealedMethod
+/home/blgc/Masaüstü/C#Projects/SealedMethod/bin/Debug/net5.0/SealedMethod.deps.json
+/home/blgc/Masaüstü/C#Projects/SealedMethod/bin/Debug/net5.0/SealedMethod.runtimeconfig.json
+/home/blgc/Masaüstü/C#Projects/SealedMethod/bin/Debug/net5.0/SealedMethod.runtimeconfig.dev.json
+/home/blgc/Masaüstü/C#Projects/SealedMethod/bin/Debug/net5.0/SealedMethod.dll
+/home/blgc/Masaüstü/C#Projects/SealedMethod/bin/Debug/net5.0/ref/SealedMethod.dll
+/home/blgc/Masaüstü/C#Projects/SealedMethod/bin/Debug/net5.0/SealedMethod.pdb
+/home/blgc/Masaüstü/C#Projects/SealedMethod/obj/Debug/net5.0/SealedMethod.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/C#Projects/SealedMethod/obj/Debug/net5.0/SealedMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/C#Projects/SealedMethod/obj/Debug/net5.0/SealedMethod.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/C#Projects/SealedMethod/obj/Debug/net5.0/SealedMethod.AssemblyInfo.cs
+/home/blgc/Masaüstü/C#Projects/SealedMethod/obj/Debug/net5.0/SealedMethod.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/C#Projects/SealedMethod/obj/Debug/net5.0/SealedMethod.dll
+/home/blgc/Masaüstü/C#Projects/SealedMethod/obj/Debug/net5.0/ref/SealedMethod.dll
+/home/blgc/Masaüstü/C#Projects/SealedMethod/obj/Debug/net5.0/SealedMethod.pdb
+/home/blgc/Masaüstü/C#Projects/SealedMethod/obj/Debug/net5.0/SealedMethod.genruntimeconfig.cache

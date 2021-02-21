@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/C#Projects/IntLiMulti/bin/Debug/net5.0/IntLiMulti
+/home/blgc/Masaüstü/C#Projects/IntLiMulti/bin/Debug/net5.0/IntLiMulti.deps.json
+/home/blgc/Masaüstü/C#Projects/IntLiMulti/bin/Debug/net5.0/IntLiMulti.runtimeconfig.json
+/home/blgc/Masaüstü/C#Projects/IntLiMulti/bin/Debug/net5.0/IntLiMulti.runtimeconfig.dev.json
+/home/blgc/Masaüstü/C#Projects/IntLiMulti/bin/Debug/net5.0/IntLiMulti.dll
+/home/blgc/Masaüstü/C#Projects/IntLiMulti/bin/Debug/net5.0/ref/IntLiMulti.dll
+/home/blgc/Masaüstü/C#Projects/IntLiMulti/bin/Debug/net5.0/IntLiMulti.pdb
+/home/blgc/Masaüstü/C#Projects/IntLiMulti/obj/Debug/net5.0/IntLiMulti.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/C#Projects/IntLiMulti/obj/Debug/net5.0/IntLiMulti.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/C#Projects/IntLiMulti/obj/Debug/net5.0/IntLiMulti.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/C#Projects/IntLiMulti/obj/Debug/net5.0/IntLiMulti.AssemblyInfo.cs
+/home/blgc/Masaüstü/C#Projects/IntLiMulti/obj/Debug/net5.0/IntLiMulti.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/C#Projects/IntLiMulti/obj/Debug/net5.0/IntLiMulti.dll
+/home/blgc/Masaüstü/C#Projects/IntLiMulti/obj/Debug/net5.0/ref/IntLiMulti.dll
+/home/blgc/Masaüstü/C#Projects/IntLiMulti/obj/Debug/net5.0/IntLiMulti.pdb
+/home/blgc/Masaüstü/C#Projects/IntLiMulti/obj/Debug/net5.0/IntLiMulti.genruntimeconfig.cache

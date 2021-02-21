@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/C#Projects/Proporty/obj/Debug/net5.0/Proporty.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/C#Projects/Proporty/obj/Debug/net5.0/Proporty.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/C#Projects/Proporty/obj/Debug/net5.0/Proporty.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/C#Projects/Proporty/obj/Debug/net5.0/Proporty.AssemblyInfo.cs
+/home/blgc/Masaüstü/C#Projects/Proporty/obj/Debug/net5.0/Proporty.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/C#Projects/Proporty/bin/Debug/net5.0/Proporty
+/home/blgc/Masaüstü/C#Projects/Proporty/bin/Debug/net5.0/Proporty.deps.json
+/home/blgc/Masaüstü/C#Projects/Proporty/bin/Debug/net5.0/Proporty.runtimeconfig.json
+/home/blgc/Masaüstü/C#Projects/Proporty/bin/Debug/net5.0/Proporty.runtimeconfig.dev.json
+/home/blgc/Masaüstü/C#Projects/Proporty/bin/Debug/net5.0/Proporty.dll
+/home/blgc/Masaüstü/C#Projects/Proporty/bin/Debug/net5.0/ref/Proporty.dll
+/home/blgc/Masaüstü/C#Projects/Proporty/bin/Debug/net5.0/Proporty.pdb
+/home/blgc/Masaüstü/C#Projects/Proporty/obj/Debug/net5.0/Proporty.dll
+/home/blgc/Masaüstü/C#Projects/Proporty/obj/Debug/net5.0/ref/Proporty.dll
+/home/blgc/Masaüstü/C#Projects/Proporty/obj/Debug/net5.0/Proporty.pdb
+/home/blgc/Masaüstü/C#Projects/Proporty/obj/Debug/net5.0/Proporty.genruntimeconfig.cache

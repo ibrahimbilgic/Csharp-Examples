@@ -1,0 +1,5 @@
+/home/blgc/Masaüstü/C#Projects/KarmasikSayi/obj/Debug/net5.0/KarmasikSayi.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/C#Projects/KarmasikSayi/obj/Debug/net5.0/KarmasikSayi.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/C#Projects/KarmasikSayi/obj/Debug/net5.0/KarmasikSayi.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/C#Projects/KarmasikSayi/obj/Debug/net5.0/KarmasikSayi.AssemblyInfo.cs
+/home/blgc/Masaüstü/C#Projects/KarmasikSayi/obj/Debug/net5.0/KarmasikSayi.csproj.CoreCompileInputs.cache

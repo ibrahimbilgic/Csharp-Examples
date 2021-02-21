@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/C#Projects/KitapOdunc/bin/Debug/net5.0/KitapOdunc
+/home/blgc/Masaüstü/C#Projects/KitapOdunc/bin/Debug/net5.0/KitapOdunc.deps.json
+/home/blgc/Masaüstü/C#Projects/KitapOdunc/bin/Debug/net5.0/KitapOdunc.runtimeconfig.json
+/home/blgc/Masaüstü/C#Projects/KitapOdunc/bin/Debug/net5.0/KitapOdunc.runtimeconfig.dev.json
+/home/blgc/Masaüstü/C#Projects/KitapOdunc/bin/Debug/net5.0/KitapOdunc.dll
+/home/blgc/Masaüstü/C#Projects/KitapOdunc/bin/Debug/net5.0/ref/KitapOdunc.dll
+/home/blgc/Masaüstü/C#Projects/KitapOdunc/bin/Debug/net5.0/KitapOdunc.pdb
+/home/blgc/Masaüstü/C#Projects/KitapOdunc/obj/Debug/net5.0/KitapOdunc.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/C#Projects/KitapOdunc/obj/Debug/net5.0/KitapOdunc.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/C#Projects/KitapOdunc/obj/Debug/net5.0/KitapOdunc.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/C#Projects/KitapOdunc/obj/Debug/net5.0/KitapOdunc.AssemblyInfo.cs
+/home/blgc/Masaüstü/C#Projects/KitapOdunc/obj/Debug/net5.0/KitapOdunc.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/C#Projects/KitapOdunc/obj/Debug/net5.0/KitapOdunc.dll
+/home/blgc/Masaüstü/C#Projects/KitapOdunc/obj/Debug/net5.0/ref/KitapOdunc.dll
+/home/blgc/Masaüstü/C#Projects/KitapOdunc/obj/Debug/net5.0/KitapOdunc.pdb
+/home/blgc/Masaüstü/C#Projects/KitapOdunc/obj/Debug/net5.0/KitapOdunc.genruntimeconfig.cache

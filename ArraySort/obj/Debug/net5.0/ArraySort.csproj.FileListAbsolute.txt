@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/C#Projects/ArraySort/obj/Debug/net5.0/ArraySort.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/C#Projects/ArraySort/obj/Debug/net5.0/ArraySort.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/C#Projects/ArraySort/obj/Debug/net5.0/ArraySort.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/C#Projects/ArraySort/obj/Debug/net5.0/ArraySort.AssemblyInfo.cs
+/home/blgc/Masaüstü/C#Projects/ArraySort/obj/Debug/net5.0/ArraySort.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/C#Projects/ArraySort/bin/Debug/net5.0/ArraySort
+/home/blgc/Masaüstü/C#Projects/ArraySort/bin/Debug/net5.0/ArraySort.deps.json
+/home/blgc/Masaüstü/C#Projects/ArraySort/bin/Debug/net5.0/ArraySort.runtimeconfig.json
+/home/blgc/Masaüstü/C#Projects/ArraySort/bin/Debug/net5.0/ArraySort.runtimeconfig.dev.json
+/home/blgc/Masaüstü/C#Projects/ArraySort/bin/Debug/net5.0/ArraySort.dll
+/home/blgc/Masaüstü/C#Projects/ArraySort/bin/Debug/net5.0/ref/ArraySort.dll
+/home/blgc/Masaüstü/C#Projects/ArraySort/bin/Debug/net5.0/ArraySort.pdb
+/home/blgc/Masaüstü/C#Projects/ArraySort/obj/Debug/net5.0/ArraySort.dll
+/home/blgc/Masaüstü/C#Projects/ArraySort/obj/Debug/net5.0/ref/ArraySort.dll
+/home/blgc/Masaüstü/C#Projects/ArraySort/obj/Debug/net5.0/ArraySort.pdb
+/home/blgc/Masaüstü/C#Projects/ArraySort/obj/Debug/net5.0/ArraySort.genruntimeconfig.cache

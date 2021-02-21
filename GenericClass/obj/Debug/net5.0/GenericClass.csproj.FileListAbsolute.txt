@@ -1,0 +1,5 @@
+/home/blgc/Masaüstü/C#Projects/GenericClass/obj/Debug/net5.0/GenericClass.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/C#Projects/GenericClass/obj/Debug/net5.0/GenericClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/C#Projects/GenericClass/obj/Debug/net5.0/GenericClass.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/C#Projects/GenericClass/obj/Debug/net5.0/GenericClass.AssemblyInfo.cs
+/home/blgc/Masaüstü/C#Projects/GenericClass/obj/Debug/net5.0/GenericClass.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+/home/blgc/Masaüstü/C#Projects/Sekil/bin/Debug/net5.0/Sekil
+/home/blgc/Masaüstü/C#Projects/Sekil/bin/Debug/net5.0/Sekil.deps.json
+/home/blgc/Masaüstü/C#Projects/Sekil/bin/Debug/net5.0/Sekil.runtimeconfig.json
+/home/blgc/Masaüstü/C#Projects/Sekil/bin/Debug/net5.0/Sekil.runtimeconfig.dev.json
+/home/blgc/Masaüstü/C#Projects/Sekil/bin/Debug/net5.0/Sekil.dll
+/home/blgc/Masaüstü/C#Projects/Sekil/bin/Debug/net5.0/ref/Sekil.dll
+/home/blgc/Masaüstü/C#Projects/Sekil/bin/Debug/net5.0/Sekil.pdb
+/home/blgc/Masaüstü/C#Projects/Sekil/obj/Debug/net5.0/Sekil.csprojAssemblyReference.cache
+/home/blgc/Masaüstü/C#Projects/Sekil/obj/Debug/net5.0/Sekil.GeneratedMSBuildEditorConfig.editorconfig
+/home/blgc/Masaüstü/C#Projects/Sekil/obj/Debug/net5.0/Sekil.AssemblyInfoInputs.cache
+/home/blgc/Masaüstü/C#Projects/Sekil/obj/Debug/net5.0/Sekil.AssemblyInfo.cs
+/home/blgc/Masaüstü/C#Projects/Sekil/obj/Debug/net5.0/Sekil.csproj.CoreCompileInputs.cache
+/home/blgc/Masaüstü/C#Projects/Sekil/obj/Debug/net5.0/Sekil.dll
+/home/blgc/Masaüstü/C#Projects/Sekil/obj/Debug/net5.0/ref/Sekil.dll
+/home/blgc/Masaüstü/C#Projects/Sekil/obj/Debug/net5.0/Sekil.pdb
+/home/blgc/Masaüstü/C#Projects/Sekil/obj/Debug/net5.0/Sekil.genruntimeconfig.cache
