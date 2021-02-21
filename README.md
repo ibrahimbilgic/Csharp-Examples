@@ -1,4 +1,4 @@
 # Csharp-Examples
 
 - OOP ekseninde C# programlama dili kullanılarak yazılmış örnekler
-- CompEng 2-1
+- ceng 2-1
